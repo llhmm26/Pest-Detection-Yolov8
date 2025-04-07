@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+runs/
+datasets/
+yolov8env/
+*.json
+*.jpg
+*.pt
+*.Identifier
