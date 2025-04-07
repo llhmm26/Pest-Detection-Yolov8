@@ -1,0 +1,19 @@
+names:
+- Cnaphalocrocis medinalis
+- Coccinellidae
+- Diptera
+- Nephotettix Malayanus
+- Nilaparvata lugens
+- Recilia Dorsalis
+- Scirpophaga incertulas
+- Sogatella Furcifera
+nc: 8
+roboflow:
+  license: Private
+  project: pest-detection-pyjsb
+  url: https://universe.roboflow.com/satasia/pest-detection-pyjsb/dataset/12
+  version: 12
+  workspace: satasia
+test: test/images
+train: train/images
+val: valid/images

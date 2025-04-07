@@ -1,0 +1,20 @@
+{"time":"2025-03-16T12:25:36.99069869+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/home/ilham/playground/yolov8/wandb/run-20250316_122536-s9n69mum/logs/debug-core.log"}
+{"time":"2025-03-16T12:25:37.985003614+08:00","level":"INFO","msg":"created new stream","id":"s9n69mum"}
+{"time":"2025-03-16T12:25:37.985046686+08:00","level":"INFO","msg":"stream: started","id":"s9n69mum"}
+{"time":"2025-03-16T12:25:37.985157049+08:00","level":"INFO","msg":"handler: started","stream_id":"s9n69mum"}
+{"time":"2025-03-16T12:25:37.985676103+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"s9n69mum"}
+{"time":"2025-03-16T12:25:37.9873892+08:00","level":"INFO","msg":"sender: started","stream_id":"s9n69mum"}
+{"time":"2025-03-16T12:25:38.463385546+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T12:25:38.70721098+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T12:29:36.364158903+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T12:29:36.718359502+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T12:30:15.779263328+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-16T13:11:19.721533943+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-16T13:11:19.731004718+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-16T13:11:20.762401754+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/PR_curve_44_64b6f7d4f17823a48acf.png","runtime_seconds":2.01551299,"progress":"240.2KB/240.2KB"},{"desc":"uploading media/images/val_batch0_pred_44_b5444d53767f1787e94c.jpg","runtime_seconds":2.01515017,"progress":"802.8KB/802.8KB"},{"desc":"uploading media/images/val_batch0_labels_44_a92bf25b9905bd138acf.jpg","runtime_seconds":2.015146454,"progress":"834.2KB/834.2KB"},{"desc":"uploading media/images/F1_curve_44_cdaa7f476f3190f1dae9.png","runtime_seconds":1.9297592159999999,"progress":"257.9KB/257.9KB"},{"desc":"uploading media/images/P_curve_44_93fefa4c17a402c4b313.png","runtime_seconds":1.929732314,"progress":"359.8KB/359.8KB"},{"desc":"uploading media/images/R_curve_44_03c2bf07660095fcb196.png","runtime_seconds":1.8469930479999999,"progress":"217.8KB/217.8KB"},{"desc":"uploading media/images/confusion_matrix_normalized_44_fb5f7b0415592a9e78f1.png","runtime_seconds":1.789644267,"progress":"267.8KB/267.8KB"},{"desc":"uploading media/images/confusion_matrix_44_c1c5f1e794575b281513.png","runtime_seconds":1.688244584,"progress":"234.3KB/234.3KB"},{"desc":"uploading media/images/results_44_3386b67a6765e5dc8662.png","runtime_seconds":1.191348636,"progress":"349.7KB/349.7KB"},{"desc":"uploading artifact run_s9n69mum_model","runtime_seconds":1.059264281}],"total_operations":13}}
+{"time":"2025-03-16T13:11:26.219441224+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-16T13:11:27.608364759+08:00","level":"INFO","msg":"stream: closing","id":"s9n69mum"}
+{"time":"2025-03-16T13:11:27.608399363+08:00","level":"INFO","msg":"handler: closed","stream_id":"s9n69mum"}
+{"time":"2025-03-16T13:11:27.608427429+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s9n69mum"}
+{"time":"2025-03-16T13:11:27.6087042+08:00","level":"INFO","msg":"sender: closed","stream_id":"s9n69mum"}
+{"time":"2025-03-16T13:11:27.608736097+08:00","level":"INFO","msg":"stream: closed","id":"s9n69mum"}

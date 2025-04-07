@@ -1,0 +1,16 @@
+{"time":"2025-02-27T14:36:54.066906562+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/home/ilham/playground/yolov8/wandb/run-20250227_143653-uili9jxn/logs/debug-core.log"}
+{"time":"2025-02-27T14:36:54.239327567+08:00","level":"INFO","msg":"created new stream","id":"uili9jxn"}
+{"time":"2025-02-27T14:36:54.239398736+08:00","level":"INFO","msg":"stream: started","id":"uili9jxn"}
+{"time":"2025-02-27T14:36:54.239492649+08:00","level":"INFO","msg":"handler: started","stream_id":"uili9jxn"}
+{"time":"2025-02-27T14:36:54.240010538+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"uili9jxn"}
+{"time":"2025-02-27T14:36:54.241717139+08:00","level":"INFO","msg":"sender: started","stream_id":"uili9jxn"}
+{"time":"2025-02-27T14:36:54.662007162+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-27T18:29:31.277820291+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-27T18:29:31.285195491+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-27T18:29:32.32454677+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/val_batch0_labels_68_7fa191a56f3be924100f.jpg","runtime_seconds":2.258018356,"progress":"625.9KB/625.9KB"},{"desc":"uploading media/images/val_batch0_pred_68_0b45159093c4656e7869.jpg","runtime_seconds":2.255730709,"progress":"627.1KB/627.1KB"},{"desc":"uploading media/images/val_batch1_pred_68_b50a865778b9d16743a3.jpg","runtime_seconds":2.255724005,"progress":"639.0KB/639.0KB"},{"desc":"uploading media/images/val_batch1_labels_68_25e614f9ffa90a8148ec.jpg","runtime_seconds":2.212310746,"progress":"636.6KB/636.6KB"},{"desc":"uploading media/images/val_batch2_labels_68_3ed04167da797d6742e6.jpg","runtime_seconds":2.212300877,"progress":"621.9KB/621.9KB"},{"desc":"uploading media/images/val_batch2_pred_68_4a3e2c149a808cabf9ee.jpg","runtime_seconds":2.212299033,"progress":"630.7KB/630.7KB"},{"desc":"uploading media/images/F1_curve_68_5af77d4d78f93137ddaf.png","runtime_seconds":2.137714991,"progress":"312.1KB/312.1KB"},{"desc":"uploading media/images/P_curve_68_761c4b8a67f04e5d9129.png","runtime_seconds":2.078162982,"progress":"271.9KB/271.9KB"},{"desc":"uploading media/images/R_curve_68_32a4d7755d8d3bf27974.png","runtime_seconds":2.078149546,"progress":"277.0KB/277.0KB"},{"desc":"uploading media/images/confusion_matrix_normalized_68_43bf1fdf38909f055618.png","runtime_seconds":1.972713056,"progress":"255.4KB/255.4KB"}],"total_operations":14}}
+{"time":"2025-02-27T18:29:38.420698595+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-27T18:29:39.737500258+08:00","level":"INFO","msg":"stream: closing","id":"uili9jxn"}
+{"time":"2025-02-27T18:29:39.737539567+08:00","level":"INFO","msg":"handler: closed","stream_id":"uili9jxn"}
+{"time":"2025-02-27T18:29:39.737551088+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"uili9jxn"}
+{"time":"2025-02-27T18:29:39.738323585+08:00","level":"INFO","msg":"sender: closed","stream_id":"uili9jxn"}
+{"time":"2025-02-27T18:29:39.738353728+08:00","level":"INFO","msg":"stream: closed","id":"uili9jxn"}

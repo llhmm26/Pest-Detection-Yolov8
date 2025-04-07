@@ -1,0 +1,16 @@
+{"time":"2025-03-14T15:27:41.715430947+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/home/ilham/playground/yolov8/wandb/run-20250314_152741-qwlggds2/logs/debug-core.log"}
+{"time":"2025-03-14T15:27:42.119251873+08:00","level":"INFO","msg":"created new stream","id":"qwlggds2"}
+{"time":"2025-03-14T15:27:42.11930346+08:00","level":"INFO","msg":"stream: started","id":"qwlggds2"}
+{"time":"2025-03-14T15:27:42.119392137+08:00","level":"INFO","msg":"handler: started","stream_id":"qwlggds2"}
+{"time":"2025-03-14T15:27:42.11978032+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"qwlggds2"}
+{"time":"2025-03-14T15:27:42.121671554+08:00","level":"INFO","msg":"sender: started","stream_id":"qwlggds2"}
+{"time":"2025-03-14T15:27:42.850925842+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-14T16:08:05.182433149+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-14T16:08:05.191226884+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-14T16:08:06.211277707+08:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading media/images/results_48_b65f02f692719f452383.png","runtime_seconds":1.207655677,"progress":"306.5KB/306.5KB"},{"desc":"uploading artifact run_qwlggds2_model","runtime_seconds":1.055502819},{"desc":"uploading output.log","runtime_seconds":0.494080154,"progress":"25.5KB/25.5KB"},{"desc":"uploading config.yaml","runtime_seconds":0.207942193,"progress":"3.0KB/3.0KB"}],"total_operations":4}}
+{"time":"2025-03-14T16:08:13.420664816+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-14T16:08:14.812436357+08:00","level":"INFO","msg":"stream: closing","id":"qwlggds2"}
+{"time":"2025-03-14T16:08:14.812479275+08:00","level":"INFO","msg":"handler: closed","stream_id":"qwlggds2"}
+{"time":"2025-03-14T16:08:14.812514508+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qwlggds2"}
+{"time":"2025-03-14T16:08:14.812603245+08:00","level":"INFO","msg":"sender: closed","stream_id":"qwlggds2"}
+{"time":"2025-03-14T16:08:14.812633248+08:00","level":"INFO","msg":"stream: closed","id":"qwlggds2"}

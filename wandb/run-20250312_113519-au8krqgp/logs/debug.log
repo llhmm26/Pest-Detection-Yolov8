@@ -1,0 +1,27 @@
+2025-03-12 11:35:19,405 INFO    MainThread:4708 [wandb_setup.py:_flush():68] Current SDK version is 0.19.2
+2025-03-12 11:35:19,405 INFO    MainThread:4708 [wandb_setup.py:_flush():68] Configure stats pid to 4708
+2025-03-12 11:35:19,405 INFO    MainThread:4708 [wandb_setup.py:_flush():68] Loading settings from /home/ilham/.config/wandb/settings
+2025-03-12 11:35:19,405 INFO    MainThread:4708 [wandb_setup.py:_flush():68] Loading settings from /home/ilham/playground/yolov8/wandb/settings
+2025-03-12 11:35:19,405 INFO    MainThread:4708 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:_log_setup():523] Logging user logs to /home/ilham/playground/yolov8/wandb/run-20250312_113519-au8krqgp/logs/debug.log
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:_log_setup():524] Logging internal logs to /home/ilham/playground/yolov8/wandb/run-20250312_113519-au8krqgp/logs/debug-internal.log
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:_jupyter_setup():469] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f002907c470>
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:init():641] calling init triggers
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:init():647] wandb.init called with sweep_config: {}
+config: {}
+2025-03-12 11:35:19,406 INFO    MainThread:4708 [wandb_init.py:init():674] starting backend
+2025-03-12 11:35:19,622 INFO    MainThread:4708 [wandb_init.py:init():678] sending inform_init request
+2025-03-12 11:35:19,632 INFO    MainThread:4708 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-12 11:35:19,633 INFO    MainThread:4708 [wandb_init.py:init():693] backend started and connected
+2025-03-12 11:35:19,637 INFO    MainThread:4708 [wandb_run.py:_label_probe_notebook():1226] probe notebook
+2025-03-12 11:35:19,657 INFO    MainThread:4708 [wandb_init.py:init():786] updated telemetry
+2025-03-12 11:35:19,708 INFO    MainThread:4708 [wandb_init.py:init():818] communicating run to backend with 90.0 second timeout
+2025-03-12 11:35:20,453 INFO    MainThread:4708 [wandb_init.py:init():868] starting run threads in backend
+2025-03-12 11:35:20,767 INFO    MainThread:4708 [wandb_run.py:_console_start():2415] atexit reg
+2025-03-12 11:35:20,767 INFO    MainThread:4708 [wandb_run.py:_redirect():2265] redirect: wrap_raw
+2025-03-12 11:35:20,768 INFO    MainThread:4708 [wandb_run.py:_redirect():2330] Wrapping output streams.
+2025-03-12 11:35:20,768 INFO    MainThread:4708 [wandb_run.py:_redirect():2355] Redirects installed.
+2025-03-12 11:35:20,770 INFO    MainThread:4708 [wandb_init.py:init():910] run started, returning control to user process
+2025-03-12 11:35:20,772 INFO    MainThread:4708 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-12 11:35:20,773 INFO    MainThread:4708 [wandb_init.py:_pause_backend():434] pausing backend
+2025-03-12 11:36:10,590 INFO    MainThread:4708 [wandb_init.py:_resume_backend():439] resuming backend

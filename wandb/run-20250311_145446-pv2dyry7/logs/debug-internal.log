@@ -1,0 +1,34 @@
+{"time":"2025-03-11T14:54:46.803101751+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/home/ilham/playground/yolov8/wandb/run-20250311_145446-pv2dyry7/logs/debug-core.log"}
+{"time":"2025-03-11T14:54:47.089736517+08:00","level":"INFO","msg":"created new stream","id":"pv2dyry7"}
+{"time":"2025-03-11T14:54:47.089796818+08:00","level":"INFO","msg":"stream: started","id":"pv2dyry7"}
+{"time":"2025-03-11T14:54:47.089839541+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T14:54:47.089877742+08:00","level":"INFO","msg":"sender: started","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T14:54:47.089920576+08:00","level":"INFO","msg":"handler: started","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T14:54:47.490387816+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-11T14:54:47.661583037+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:55:22.244813446+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:55:23.138238819+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:56:31.330364031+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:56:31.376100256+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:56:43.570496803+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:56:43.787821938+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:58:38.334542757+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:58:39.220453438+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:59:19.77245345+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:59:20.235887147+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T14:59:48.648800581+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T14:59:49.211709687+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T15:01:41.205571749+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T15:01:41.722973417+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T15:01:56.542523584+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T15:01:56.673949627+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T15:04:32.274661433+08:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-11T15:04:32.734808938+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-11T15:06:13.728070499+08:00","level":"INFO","msg":"stream: closing","id":"pv2dyry7"}
+{"time":"2025-03-11T15:06:13.728114021+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-11T15:06:13.729359093+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-11T15:06:14.593873261+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-11T15:06:14.857443937+08:00","level":"INFO","msg":"handler: closed","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T15:06:14.857500168+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T15:06:14.857512927+08:00","level":"INFO","msg":"sender: closed","stream_id":"pv2dyry7"}
+{"time":"2025-03-11T15:06:14.857562405+08:00","level":"INFO","msg":"stream: closed","id":"pv2dyry7"}

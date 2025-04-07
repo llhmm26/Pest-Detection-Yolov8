@@ -1,0 +1,9 @@
+{"time":"2025-03-12T11:35:19.64275084+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.2","symlink path":"/home/ilham/playground/yolov8/wandb/run-20250312_113519-au8krqgp/logs/debug-core.log"}
+{"time":"2025-03-12T11:35:20.051432527+08:00","level":"INFO","msg":"created new stream","id":"au8krqgp"}
+{"time":"2025-03-12T11:35:20.051479427+08:00","level":"INFO","msg":"stream: started","id":"au8krqgp"}
+{"time":"2025-03-12T11:35:20.052029873+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"au8krqgp"}
+{"time":"2025-03-12T11:35:20.052656945+08:00","level":"INFO","msg":"sender: started","stream_id":"au8krqgp"}
+{"time":"2025-03-12T11:35:20.053534234+08:00","level":"INFO","msg":"handler: started","stream_id":"au8krqgp"}
+{"time":"2025-03-12T11:35:20.46500883+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-12T11:35:20.810810854+08:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-12T11:36:10.591350351+08:00","level":"INFO","msg":"Resuming system monitor"}
